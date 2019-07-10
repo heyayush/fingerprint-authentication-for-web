@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fingerprint-authentication-for-web/static/css/main.2cce8147.chunk.css",
+    "main.js": "/fingerprint-authentication-for-web/static/js/main.2f566baa.chunk.js",
+    "main.js.map": "/fingerprint-authentication-for-web/static/js/main.2f566baa.chunk.js.map",
+    "runtime~main.js": "/fingerprint-authentication-for-web/static/js/runtime~main.82eba045.js",
+    "runtime~main.js.map": "/fingerprint-authentication-for-web/static/js/runtime~main.82eba045.js.map",
+    "static/js/2.b41502e9.chunk.js": "/fingerprint-authentication-for-web/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/fingerprint-authentication-for-web/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/fingerprint-authentication-for-web/index.html",
+    "precache-manifest.ca95f53b6366bc0a831fbdfdda8852a9.js": "/fingerprint-authentication-for-web/precache-manifest.ca95f53b6366bc0a831fbdfdda8852a9.js",
+    "service-worker.js": "/fingerprint-authentication-for-web/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/fingerprint-authentication-for-web/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/fingerprint-authentication-for-web/static/media/logo.5d5d9eef.svg"
+  }
+}
