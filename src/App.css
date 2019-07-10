@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+
+#app-install-banner {
+  display: none;
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
