@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fingerprint-authentication-for-web/static/css/main.c58a6bc0.chunk.css",
-    "main.js": "/fingerprint-authentication-for-web/static/js/main.b4032d87.chunk.js",
-    "main.js.map": "/fingerprint-authentication-for-web/static/js/main.b4032d87.chunk.js.map",
+    "main.css": "/fingerprint-authentication-for-web/static/css/main.1a830d89.chunk.css",
+    "main.js": "/fingerprint-authentication-for-web/static/js/main.c402e157.chunk.js",
+    "main.js.map": "/fingerprint-authentication-for-web/static/js/main.c402e157.chunk.js.map",
     "runtime~main.js": "/fingerprint-authentication-for-web/static/js/runtime~main.82eba045.js",
     "runtime~main.js.map": "/fingerprint-authentication-for-web/static/js/runtime~main.82eba045.js.map",
-    "static/js/2.b41502e9.chunk.js": "/fingerprint-authentication-for-web/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/fingerprint-authentication-for-web/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.3310f33a.chunk.js": "/fingerprint-authentication-for-web/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/fingerprint-authentication-for-web/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/fingerprint-authentication-for-web/index.html",
-    "precache-manifest.ed0ff8e08bdb87f42ee6d39cb6f51aa9.js": "/fingerprint-authentication-for-web/precache-manifest.ed0ff8e08bdb87f42ee6d39cb6f51aa9.js",
+    "precache-manifest.0ca49210cc1c6e597dc86119adcbcd48.js": "/fingerprint-authentication-for-web/precache-manifest.0ca49210cc1c6e597dc86119adcbcd48.js",
     "service-worker.js": "/fingerprint-authentication-for-web/service-worker.js",
-    "static/css/main.c58a6bc0.chunk.css.map": "/fingerprint-authentication-for-web/static/css/main.c58a6bc0.chunk.css.map",
+    "static/css/main.1a830d89.chunk.css.map": "/fingerprint-authentication-for-web/static/css/main.1a830d89.chunk.css.map",
     "static/media/logo.svg": "/fingerprint-authentication-for-web/static/media/logo.5d5d9eef.svg"
   }
 }
