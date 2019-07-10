@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fingerprint-authentication-for-web/precache-manifest.ca95f53b6366bc0a831fbdfdda8852a9.js"
+  "/fingerprint-authentication-for-web/precache-manifest.ed0ff8e08bdb87f42ee6d39cb6f51aa9.js"
 );
 
 self.addEventListener('message', (event) => {
