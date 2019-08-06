@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "779174ca1ee858daa1178c980e107f8f",
+    "revision": "9a5f69fdb5ef75ccf938d92d68c67100",
     "url": "/fingerprint-authentication-for-web/index.html"
   },
   {
-    "revision": "09ef99b122ad4adb0140",
+    "revision": "fa2d304fc5598b2ee29d",
     "url": "/fingerprint-authentication-for-web/static/css/main.d8f9e272.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fingerprint-authentication-for-web/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "09ef99b122ad4adb0140",
-    "url": "/fingerprint-authentication-for-web/static/js/main.a7320c00.chunk.js"
+    "revision": "fa2d304fc5598b2ee29d",
+    "url": "/fingerprint-authentication-for-web/static/js/main.71a3cd3e.chunk.js"
   },
   {
     "revision": "e7135f50c41fc91b62a6",
