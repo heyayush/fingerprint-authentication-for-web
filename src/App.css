@@ -44,3 +44,8 @@
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+#player {
+  height: 300px;
+  width: 300px;
+}
